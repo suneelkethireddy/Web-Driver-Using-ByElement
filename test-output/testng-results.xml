@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6371" started-at="2016-11-29T07:43:29Z" finished-at="2016-11-29T07:43:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6371" started-at="2016-11-29T07:43:29Z" finished-at="2016-11-29T07:43:36Z">
+      <class name="testcase.TestAllObjects">
+        <test-method status="PASS" signature="startWebDriver()[pri:0, instance:testcase.TestAllObjects@35fb3008]" name="startWebDriver" is-config="true" duration-ms="9990" started-at="2016-11-28T23:43:19Z" finished-at="2016-11-28T23:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startWebDriver -->
+        <test-method status="PASS" signature="testAll()[pri:0, instance:testcase.TestAllObjects@35fb3008]" name="testAll" duration-ms="6044" started-at="2016-11-28T23:43:29Z" finished-at="2016-11-28T23:43:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAll -->
+      </class> <!-- testcase.TestAllObjects -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
